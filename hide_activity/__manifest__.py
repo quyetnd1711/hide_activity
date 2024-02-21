@@ -6,7 +6,7 @@
     'description': """
         Hide icon Activity from header
     """,
-    'version': "16.0",
+    'version': "17.0",
     'author': "Duc Quyet",
     'support': 'nquyet76@gmail.com',
     'images': ['static/description/icon.png'],

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <templates id="template" xml:space="preserve">
-    <t t-inherit="mail.ActivityMenuView" t-inherit-mode="extension" owl="1">
-        <xpath expr="//a[hasclass('o_ActivityMenuView_dropdownToggle')]" position="replace"></xpath>
+    <t t-inherit="mail.ActivityMenu" t-inherit-mode="extension" owl="1">
+        <xpath expr="//Dropdown[hasclass('discussSystray.class')]" position="replace"></xpath>
     </t>
 </templates>
